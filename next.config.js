@@ -7,9 +7,8 @@ const nextConfig = {
   experimental: {
     optimizePackageImports: ['lucide-react'],
   },
-  // Base path pour GitHub Pages
-  basePath: process.env.NODE_ENV === 'production' ? '/gdevis' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/gdevis' : '',
+  // Pas de basePath si le repo s'appelle gdevis (racine)
+  // Si votre repo s'appelle autrement, ajustez le basePath
   images: {
     remotePatterns: [
       {
