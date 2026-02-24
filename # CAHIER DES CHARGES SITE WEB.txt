@@ -1,0 +1,2832 @@
+# CAHIER DES CHARGES SITE WEB
+
+18 février 2026 
+
+Objectif : Concevoir une plateforme positionnant GDEVIS comme la solution de référence en France et  dans les DROM pour la gestion et le suivi des prises en charge mutuelles dans le secteur dentaire.
+
+# **1. POSITIONNEMENT STRATEGIQUE**
+
+## **1.1 Positionnement général**
+
+GDEVIS est une solution professionnelle exclusivement dédiée à la gestion et au suivi administratif des demandes de prises en charge mutuelles pour les cabinets et centres dentaires sur l’ensemble du territoire national et dans les DROM.
+
+Elle est conçu uniquement pour les structures dentaires (cabinets, centres et structures multi-sites). et ne s’adresse à aucun autre secteur médical.
+
+GDEVIS se positionne comme un outil de gestion et de suivi administratif, et non comme un logiciel médical ou un ERP.
+
+## **1.2 Nature de la solution**
+
+GDEVIS repose sur une approche combinée :
+
+- Un outil logiciel de centralisation et de suivi des dossiers
+- Une organisation humaine spécialisée dans la gestion administrative dentaire
+
+Le site internet devra assumer clairement cette approche, sans présenter la solution comme un service entièrement automatisé ou reposant exclusivement sur l’intelligence artificielle.
+
+## **1.3 Promesse principale**
+
+La promesse de GDEVIS est de :
+
+- Sécuriser les démarches administratives liées aux prises en charge mutuelles
+- Clarifier le suivi des dossiers et de leurs statuts
+- Réduire les risques d’erreurs et les pertes d’informations
+- Offrir une meilleure visibilité sur l’avancement des dossiers et les encaissements associés.
+
+## **1.4 Différenciation par rapport aux concurrents**
+
+A la différence de certaines solutions du marché, GDEVIS : 
+
+- Ne met pas en avant une automatisation totale ou instantanée
+- Met l’accent sur :
+    - La fiabilité
+    - La rigueur administrative
+    - Le suivi réel des dossiers
+    - L’accompagnement par une équipe connaissant les spécificités du secteur dentaire
+
+Cette différenciation doit être perceptible dès la page d’accueil du site.
+
+## **1.5 Phrase de positionnement**
+
+Phrase de positionnement à utiliser comme référence dans les contenus du site : 
+
+<aside>
+
+**GDEVIS accompagne les cabinets et centres dentaires dans la gestion et le suivi des prises en charge mutuelles, grâce à une solution administrative spécialisée combinant outil de pilotage structuré associé à une organisation dédiée.**
+
+</aside>
+
+## **1.6 Ton et intentions du site**
+
+Le site internet GDEVIS devra : 
+
+- Inspirer confiance
+- Être professionnel et rassurant
+- Rester clair et lisible
+- Eviter toute promesse irréaliste ou excessive
+- Mettre en avant les bénéfices plutôt que les mécanismes internes
+
+# **2. MESSAGE CENTRAL & PROMESSE DU SITE GDEVIS**
+
+## **La promesse principale**
+
+<aside>
+
+**GDEVIS apporte structure, visibilité et fiabilité à la gestion des prises en charge mutuelles des cabinets et centres dentaires, grâce à une solution administrative spécialisée et sécurisée.**
+
+</aside>
+
+# 3. STRUCTURE STRATEGIQUE DU SITE (architecture des pages)
+
+## 3.1 Objectif global du site
+
+Le site internet GDEVIS a pour objectif de présenter clairement la solution, rassurer les professionnels du secteur dentaire, qualifier les demandes entrantes et générer des prises de contact qualifiées (demande de démonstration ou étude de besoin).
+Aucune souscription ni paiement ne sont réalisés directement depuis le site.
+On parle de prises de contact qualifiées → ça fait plus structuré.
+
+## 3.2 Pages obligatoires du site
+
+<aside>
+
+Structure : 
+
+- Accueil
+- La solution
+- Fonctionnement
+- Nos clientsNos clients
+- Notre approche Notre approche
+- Demander une démonstration
+- Connexion
+- Contact
+- Icône réseaux sociaux officiels GDEVIS
+- Page légales
+    - Mentions légales
+    - Politique de confidentialité / RGPD
+    - Politique cookies
+    - CGU
+</aside>
+
+## 3.3 Règle stratégique importante
+
+Le site ne doit pas détailler les processus internes, les automatisations techniques, ni les méthodes opérationnelles utilisés par GDEVIS. 
+
+La communication est orientée bénéfices, clarté, sécurité et organisation, sans exposer les mécanismes internes du service.
+
+## 3.4 Navigation (menu principal)
+
+<aside>
+
+Menu : 
+
+- Accueil
+- La solution
+- Fonctionnement
+- Nos clientsNos clients
+- Notre approcheNotre approche
+- Connexion
+- Mentions légales
+    - Politiques de confidentialité
+    - Politique cookies
+    - CGU
+    - Politique RGPD
+- Icônes réseaux sociaux officiels GDEVIS
+- Contact
+- Connexion
+
+Bouton **“Demander une démo”** en CTA principale (couleur accent)
+
+</aside>
+
+# 4. STRUCTURE DE LA PAGE D’ACCUEIL GDEVIS
+
+## 4.1 Bloc 1 : Hero section (tout en haut)
+
+**Objectif :**
+
+Compréhension immédiate + crédibilité + action
+
+**Contenu attendu**
+
+**Titre principal (H1)**
+
+<aside>
+
+La solution administrative spécialisée pour la gestion et le suivi des prises en charge mutuelles dentaires.
+
+</aside>
+
+**Sous-titre (H2)**
+
+<aside>
+
+Centralisez, structurez et pilotez vos prises en charge mutuelles dans un environnement simple, sécurisé et professionnel.
+
+</aside>
+
+**Phrase de clarification essentielle**
+
+<aside>
+
+GDEVIS est un outil de gestion et de suivi administratif. 
+
+Le traitement des dossiers repose sur une organisation spécialisée dédiée aux prises en charge mutuelles dentaires.
+
+</aside>
+
+**CTA principaux**
+
+- Bouton principal : Demander une démonstration
+- Bouton secondaire (plus discret) : Découvrir la solution (Renvoi vers page la solution)
+
+## 4.2 Bloc 2 : Problématique métier (Identification)
+
+**Objectif :**
+
+Que le visiteur se dise : “Ils parlent de moi”
+
+**Structure** 
+
+**Titre** 
+
+<aside>
+
+Les prises en charge mutuelles : un enjeu administratif devenu stratégique.
+
+</aside>
+
+**Points listés** 
+
+<aside>
+
+- Multiplication des demande et des échanges avec les mutuelles
+- Manque de visibilité sur l’état réel des dossiers
+- Risque d’erreurs, d’oublis ou de retards
+- Perte de temps administratif pour les équipes
+- Difficulté à prioriser les dossiers sensibles
+- Impact direct sur les encaissements
+</aside>
+
+## 4.3 Bloc 3 : La réponse GDEVIS (valeur ajoutée)
+
+**Objectif**
+
+Montrer que je réponds exactement au problème, sans expliquer comment.
+
+**Titre**
+
+<aside>
+
+Une organisation claire et un pilotage fiable de vos prises en charge.
+
+</aside>
+
+**Axes**
+
+<aside>
+
+- Centralisation des dossiers et documents
+- Suivi structuré des statuts
+- Vision globale de l’activité liée aux prises en charge
+- Réduction des erreurs administratives
+- Gain de temps pour les équipes
+- Transparence sur les actions réalisées
+</aside>
+
+## 4.4 Bloc 4 : A qui s’adresse GDEVIS
+
+Objectif : 
+
+Qualifier le visiteur (et éliminer les mauvais leads)
+
+Titre :
+
+<aside>
+
+Une solution réservée aux structures dentaires
+
+</aside>
+
+Contenu
+
+<aside>
+
+- Cabinets dentaires
+- Centres dentaires
+- Structures multi-sites dentaires
+- Directions et équipes administratives dentaires
+
+<aside>
+
+La solution GDEVIS est exclusivement réservée aux structures dentaires.
+
+Chaque demande fait l’objet d’une validation préalable.
+
+</aside>
+
+</aside>
+
+## 4.5 Bloc 5 : Confiance & conformité
+
+Objectif
+
+Lever les freins juridiques et de confiance
+
+Titre :
+
+<aside>
+
+Une solution conçue pour un environnement exigeant
+
+</aside>
+
+Contenu (pictos)
+
+<aside>
+
+- Conformité RGPD (picto générique : cadenas, bouclier, check)
+    - Texte : Conformité RGPD - protection des données professionnelles
+- Hébergement certifié HDS (citer l’hébergeur)
+- Données sécurisées
+- Accès strictement contrôlés
+- Traçabilité des actions
+- Image “sérieuse / premium” (Image libre de droits)
+    - Soit interfaces logicielles (mockups), écrans de dashboard, bureau épuré, ordinateur / tablette, ambiance professionnelle, calme, couleurs sobres (bleu, gris, blanc)
+    - Pas de dentiste en blouse, pas de patients, sourires exagérés, mains qui serrent, photos trop”banque d’images”
+</aside>
+
+## 4.6 Bloc 6 : Comment ça se passe ? (sans dévoiler les procès)
+
+Objectif
+
+Expliquer sans expliquer
+
+Titre :
+
+<aside>
+
+Un accompagnement structuré
+
+</aside>
+
+Contenu :
+
+<aside>
+
+- Demande de démonstration
+- Etude de votre organisation
+- Echange personnalisé
+- Mise en place encadrée
+</aside>
+
+## 4.7 Bloc 7 : Appel à l’action final
+
+Objectif
+
+Convertir sans pression
+
+Texte
+
+<aside>
+
+Vous souhaitez vérifier si GDEVIS est adapté à votre organisation ?
+
+</aside>
+
+<aside>
+
+Bouton : Demander une démonstration 
+
+</aside>
+
+Phrase rassurante en dessous 
+
+<aside>
+
+Démonstration sans engagement.
+
+Aucune activation ni abonnement sans validation préalable.
+
+</aside>
+
+## 4.8 Bloc 8 : Règles importantes pour la page d’accueil
+
+Liste
+
+- Aucun tarif affiché
+- Aucune promesse chiffrée
+- Aucun détail technique
+- Aucune référence médicale
+- Ton professionnel, clair, posé
+- Pas de marketing agressif
+
+## 4.9 Bloc 9 : Footer (sobre & pro)
+
+Liste
+
+<aside>
+
+- Mentions légales
+- Politiques de confidentialité
+- Politique cookies
+- CGU
+- Politique RGPD
+- Connexion
+- Icônes réseaux sociaux officiels GDEVIS
+- Contact
+    
+    Intégration d’un lien vers la page LinkedIn officielle GDEVIS
+    
+    Icône discrète, cohérente avec la charte graphique
+    
+    Ouverture dans un nouvel onglet
+    
+    https://www.linkedin.com/company/sas-gdevis/ 
+    
+</aside>
+
+## 5. CONTENU REDACTIONNEL DE LA PAGE LA SOLUTION
+
+## 5.1 Objectif de la page
+
+Expliquer ce que fait GDEVIS sans :
+
+- Dévoiler la méthode interne
+- Dévoiler la logique métier sensible
+- Donner des idées exploitables aux concurrents
+
+Cette page doit donner envie de demander une démo, pas tout comprendre
+
+## 5.2 Rôle de la solution GDEVIS
+
+Texte de référence à intégrer
+
+<aside>
+
+GDEVIS est une solution administrative spécialisée permettant aux cabinets et centres dentaires de centraliser, structurer et piloter leurs prises en charge mutuelles dans un environnement professionnel, sécurisé et organisé.
+
+Conçue pour répondre aux contraintes concrètes du terrain : multiplication des dossiers, délais variables selon les mutuelles, risques d’erreurs et manque de visibilité sur l’état d’avancement des demandes.
+
+La solution apporte une vision claire et continue de l’activité liée aux prises en charge.
+
+GDEVIS facilite ainsi l’organisation des équipes et la prise de décision administrative au quotidien.
+
+</aside>
+
+## 5.3 Les grands piliers de la solution (structure visuelle)
+
+Présentation en blocs ou cartes, avec pictogrammes sobres.
+
+<aside>
+
+### Pilier 1 : Centralisation
+
+</aside>
+
+Titre court
+
+<aside>
+
+Centralisation des prises en charge
+
+</aside>
+
+Texte
+
+<aside>
+
+L’ensemble des dossiers, documents et informations liés aux prises en charge est regroupé dans un espace structuré, accessible à tout moment par les équipes autorisés.
+
+</aside>
+
+<aside>
+
+### Pilier 2 : Suivi structuré
+
+</aside>
+
+Titre court
+
+<aside>
+
+Suivi clair et structuré des dossiers
+
+</aside>
+
+Texte 
+
+<aside>
+
+Chaque prise en charge bénéficie d’un statut clair et actualisé, permettant une lecture immédiate de l’avancement du dossier, sans recherche inutile.
+
+</aside>
+
+<aside>
+
+### Pilier 3 : Pilotage administratif
+
+</aside>
+
+Titre court 
+
+<aside>
+
+Pilotage de l’activité liée aux prises en charge
+
+</aside>
+
+Texte
+
+<aside>
+
+GDEVIS permet de piloter l’activité administrative liée aux prises en charge afin d’améliorer l’organisation, l’anticipation et la gestion du temps des équipes.
+
+</aside>
+
+<aside>
+
+### Pilier 4 : Réduction des erreurs
+
+</aside>
+
+Titre court
+
+<aside>
+
+Sécurisation et réduction des erreurs administratives
+
+</aside>
+
+Texte
+
+<aside>
+
+La structuration des dossiers et des informations contribue à limiter les oublis, doublons et erreurs de transmission.
+
+</aside>
+
+<aside>
+
+### Pilier 5 : Transparence opérationnelle
+
+</aside>
+
+Titre court
+
+<aside>
+
+Transparence et visibilité en temps réel
+
+</aside>
+
+Texte
+
+<aside>
+
+Les actions réalisées et l’état des dossiers sont visibles en temps réel, offrant une transparence continue sur le suivi des prises en charge
+
+</aside>
+
+## 5.4 Ce que GDEVIS n’est volontairement pas
+
+Bloc différenciant très puissant
+
+Titre
+
+<aside>
+
+Une solution administrative spécialisée, pas un logiciel médical
+
+</aside>
+
+Texte
+
+<aside>
+
+GDEVIS n’est ni un logiciel médical, ni un outil de gestion des soins.
+
+La solution est exclusivement dédiée à l’organisation et au suivi administratif des prises en charge mutuelles.
+
+Elle s’intègre dans le fonctionnement existant des cabinets et centres dentaires, sans interférer avec leurs outils cliniques.
+
+</aside>
+
+## 5.5 A qui s’adresse la solution (teaser, pas la page complète)
+
+Texte court
+
+<aside>
+
+GDEVIS s’adresse aux cabinets et centres dentaires souhaitant structurer et sécuriser leur gestion administrative des prises en charge mutuelles.
+
+Lien discret :
+
+Découvrir à qui s’adresse GDEVIS (qui mènera à la page Nos clients)
+
+</aside>
+
+## 5.6 Appel à l’action
+
+Phrase rassurante (très importante)
+
+<aside>
+
+Chaque structure dispose d’une organisation spécifique.
+
+L’accès à la solution GDEVIS se fait après étude de vos besoins et validation préalable.
+
+</aside>
+
+Boutons:
+
+Demander une démonstration
+
+- Découvrir à qui s’adresse GDEVIS (secondaire) (renvoie à la page Nos clients)
+
+## 5.7 Consignes graphiques pour cette page
+
+Liste
+
+- Ton sobre et professionnel
+- Icônes simples (ligne, monochrome)
+- Aucune animation “marketing”
+- Aucun chiffre
+- Aucune promesse de délai
+- Visuels orientés :
+    - Organisation
+    - Aucune animation marketing
+    - Icones simples (ligne monochrome)
+    - Aucune promesse chiffrée
+    - Tableau de suivi
+    - Interface logicielle (floutée si nécessaire)
+
+# 6. CONTENU REDACTIONNEL DE LA PAGE FONCTIONNEMENT
+
+## 6.1 Objectif de la page
+
+Expliquer comment se déroule la collaboration avec GDEVIS sans :
+
+- Expliquer les processus internes
+- Dévoiler l’organisation opérationnelle
+- Créer des attentes dangereuses (délais, automatisation, IA, téléphone, etc.)
+
+Cette page doit répondre à la question mentale du dentiste :
+
+Concrètement, comment ça se passe avec eux?
+
+## 6.2 Principe général (bloc d’ouverture)
+
+Titre H1
+
+Un fonctionnement simple, structuré et maitrisé
+
+Texte 
+
+Le fonctionnement de GDEVIS a été conçu pour s’intégrer naturellement à l’organisation des cabinets et centres dentaires, sans complexité inutile ni modification des outils cliniques existants.
+
+Chaque étape est encadrée afin de garantir un suivi clair des prises en charge mutuelles, dans un cadre sécurisé et conforme.
+
+## 6.3 Les grandes étapes du fonctionnement
+
+### Etape 1 : Demande de démonstration
+
+Titre court
+
+Prise de contact et découverte
+
+Texte 
+
+La première étape consiste à effectuer une demande de démonstration via le site GDEVIS.
+
+Cet échange permet de découvrir la solution et d’évaluer son adéquation avec votre organisation.
+
+### Etape 2 : Etude de la structure
+
+Titre court
+
+Analyse de votre organisation
+
+Texte
+
+Une étude préalable est réalisée afin de comprendre le fonctionnement de votre organisation et d’identifier les besoins administratifs liés aux prises en charge mutuelles.
+
+### Etape 3 : Mise en place de l’accès
+
+Titre court : 
+
+Création de l’accès sécurisé
+
+Texte
+
+Après validation de la souscription et signature du cadre contractuel, l’accès à la solution GDEVIS est mis en place de manière sécurisée, conformément au modalités définies pour votre organisation.
+
+### Etape 4 : Les modalités d’utilisation
+
+Titre court 
+
+Un cadre clair pour une gestion fiable
+
+Texte
+
+Avant la mise en production, les modalités d’utilisation de la solution GDEVIS sont définies et présentées.
+
+Cette étape permet d’établir un cadre de fonctionnement précis, aligné avec les exigences administratives des prises en charge mutuelles.
+
+Les règles d’utilisation et les bonnes pratiques sont exposées afin de garantir la fiabilité des dossiers, de limiter les erreurs de traitement et d’assurer une gestion conforme et sécurisée.
+
+### Etape 5 : Utilisation, suivi et accompagnement
+
+Titre court
+
+Un suivi structuré au quotidien
+
+Texte
+
+Une fois la solution en place, les équipes utilisent la plateforme GDEVIS dans leur gestion quotidienne des prises en charge.
+
+Les dossiers sont centralisés, suivis et actualisés de manière structurée, avec une visibilité claire sur leur avancement.
+
+Un accompagnement administratif est assuré via les outils intégrés à la plateforme, permettant un suivi continu et une communication encadrée, dans le respect du cadre défini.
+
+## 6.4 Cadre de communication
+
+Titre
+
+Un cadre de communication structuré
+
+Texte
+
+Les échanges relatifs aux dossiers s’effectuent directement via la plateforme GDEVIS afin de centraliser les informations et d’assurer une traçabilité complète.
+
+Ce mode de fonctionnement favorise une meilleure organisation, limite les pertes d’informations et améliore le suivi des dossiers.
+
+## 6.5 Sécurité & conformité (sans logos)
+
+Titre
+
+Sécurité et conformité des données
+
+Texte
+
+La solution GDEVIS est conçue dans le respect des obligations réglementaires en vigueur, notamment en matière de protection des données et de sécurité des informations.
+
+Les données sont hébergées sur des infrastructures conformes aux exigences applicables au secteur de la santé.
+
+## 6.6 Ce que le fonctionnement garantit
+
+Liste
+
+- Un cadre clair et structuré
+- Une visibilité continue sur les prises en charge
+- Une organisation administrative maîtrisée
+- Une réduction des risques d’erreurs
+- Une collaboration fluide et encadrée
+
+## 6.7 Appel à l’action final
+
+Phrase
+
+Vous souhaitez vérifier si la solution GDEVIS est adaptée à votre organisation?
+
+Bouton principal
+
+Demander une démonstration
+
+Bouton secondaire (discret)
+
+Découvrir à qui s’adresse GDEVIS
+
+# 7. CONTENU REDACTIONNEL DE LA PAGE A QUI S’ADRESSE GDEVIS
+
+## 7.1 Titre principal
+
+H1 :
+
+A qui s’adresse GDEVIS ?
+
+Sous-texte
+
+La solution GDEVIS s’adresse aux structures dentaires souhaitant structurer et sécuriser la gestion de leurs prises en charge mutuelles, quel que soit leur mode d’organisation ou leur volume d’activité.
+
+Elle s’adapte aussi bien à l’exercice libéral qu’aux organisations multi-sites.
+
+## 7.2 Bloc 1 : Dentiste libéral
+
+Titre : 
+
+Pour les dentistes libéraux
+
+Texte : 
+
+Vous exercez seul ou avec une équipe restreinte et souhaitez mieux encadrer la gestion de vos prises en charge mutuelles.
+
+GDEVIS vous permet de centraliser vos dossiers, de limiter les erreurs administratives et d’optimiser votre organisation quotidienne.
+
+Une solution claire et structurée, sans complexité inutile.
+
+## 7.3 Bloc 2 : Cabinet dentaire multipraticiens
+
+Titre :
+
+Pour les cabinets dentaires multipraticiens
+
+Texte :
+
+La coordination des prises en charge entre plusieurs praticiens et assistantes nécessite une organisation rigoureuse.
+
+GDEVIS offre une visibilité globale sur les dossiers en cours, facilite le suivi des statuts et permet d’harmoniser les pratiques administratives au sein du cabinet.
+
+Une gestion maîtrisée, même lorsque le volume d’activité augmente. 
+
+## 7.4 Bloc 3 : Centre dentaire
+
+Titre : 
+
+Pour les centres dentaires
+
+Texte :
+
+Les centres dentaires traitent un volume important de demandes de prise en charge et nécessitent une structure claire afin d’éviter toute désorganisation.
+
+GDEVIS permet de piloter les dossiers de manière structurée, d’assurer une gestion individualisée  par dossier et de sécuriser les échanges liés aux mutuelles.
+
+Une approche adaptée aux environnements à forte activité. 
+
+## 7.5 Bloc 4 : Groupe multi-sites
+
+Titre : 
+
+Pour les groupes multi-sites
+
+Texte :
+
+Lorsque plusieurs structures sont impliquées, la cohérence et l’harmonisation des processus deviennent essentielles.
+
+GDEVIS facilite le pilotage structuré des prises en charge mutuelles, avec une organisation claire et une visibilité adaptée aux besoins des groupes.
+
+Une solution pensée pour accompagner les structures en croissance.
+
+## 7.6 Bloc différencient
+
+Titre :
+
+Une organisation  adaptée à chaque structure
+
+Texte :
+
+De l’exercice libéral aux organisations multi-sites, GDEVIS s’adapte à la réalité de votre fonctionnement interne.
+
+La solution structure la gestion des prises en charge mutuelles sans alourdir vos processus existants, tout en garantissant une organisation claire et maîtrisée.
+
+## 7.7 Appel à l’action
+
+Phrase :
+
+Vous souhaitez vérifier si la solution GDEVIS est adaptée à votre organisation ?
+
+Bouton principal :
+
+Demander une démonstration
+
+Bouton secondaire :
+
+Découvrir le fonctionnement
+
+# 8. CONTENU REDACTIONNEL DE LA PAGE A PROPOS
+
+## 8.1 Bloc 1 :  H1
+
+Titre principal
+
+Une solution née du terrain dentaire
+
+Texte
+
+GDEVIS est née d’une réalité vécue au sein des cabinets et centres dentaires : la gestion des prises en charge mutuelles est souvent complexe, chronophage et source d’erreurs administratives.
+
+La solution a été pensée pour structurer, sécuriser et clarifier l’organisation des dossiers liés aux prises en charge, dans un cadre professionnel et maîtrisé.
+
+## 8.2 Bloc 2 : Parcours et expertise (A gauche mettre ma photo)
+
+![1000101228.png](attachment:d4b2142f-1474-4d67-8158-f5c245a10487:1000101228.png)
+
+Titre :
+
+Une expérience opérationnelle complète
+
+Texte :
+
+Avant la création de GDEVIS, j’ai exercé différentes fonctions au sein de structures dentaires : secrétaire médicale, responsable administrative, puis directrice de centre dentaire.
+
+Cette évolution m’a permis de maîtriser l’ensemble du cycle administratif des prises en charge, de la création du dossier jusqu’au suivi des règlements et au contrôle des paiements.
+
+GDEVIS est le prolongement direct de cette expérience terrain et d’une volonté d’apporter un cadre structuré et fiable aux équipes administratives.
+
+## 8.3 Bloc 3 : Constat et problématique
+
+Titre :
+
+Un besoin de clarté et d’organisation
+
+Texte :
+
+Au quotidien, les équipes administratives sont confrontées à :
+
+- Un volume important de dossiers à suivre
+- Des échanges multiples avec les mutuelles
+- Un manque de visibilité sur l’état réel des demandes
+- Des risques d’erreurs ou de doublons
+- Une organisation parfois fragmentée
+
+GDEVIS a été conçue pour apporter une réponse structurée et sécurisée à ces enjeux.
+
+## 8.4 Bloc 4 : La philosophie de la solution
+
+Titre :
+
+Un cadre clair, une logique maîtrisée
+
+Texte :
+
+La solution repose sur un principe simple : chaque dossier est traité de manière individualiséée, dans un cadre structuré.
+
+Cette approche garantit :
+
+- Une meilleure traçabilité
+- Une séparation claire des demandes
+- Une réduction des risques d’erreurs
+- Une gestion plus lisible des priorités
+
+## 8.5 Bloc 5 : Sécurité et conformité
+
+Titre :
+
+Une attention particulière portée à la sécurité
+
+Texte :
+
+La gestion des données de santé implique un niveau d’exigence élevé.
+
+GDEVIS est conçue dans le respect des obligations réglementaires applicables, notamment en matière de protection des données et de sécurité des informations.
+
+Les données sont hébergées sur des infrastructures conformes aux exigences du secteur de la santé.
+
+## 8.6 Bloc 6 : Développement et vision
+
+Titre :
+
+Une solution construite pour évoluer
+
+Texte :
+
+Le développement et l’architecture technique de la plateforme ont été réalisés en collaboration avec un partenaire spécialisé dans la conception d’applications web sécurisées.
+
+Cette collaboration garantit un socle technologique fiable, évolutif et adapté aux exigences du secteur dentaire.
+
+GDEVIS s’inscrit dans une démarche d’amélioration continue, avec une volonté constante d’adapter la solution aux réalités du terrain tout en conservant un cadre structuré et maîtrisé.
+
+## 8.7 Bloc 7 : Appel à l’action
+
+Titre 
+
+Découvrir la solution en détail
+
+Texte
+
+Vous souhaitez vérifier si la solution GDEVIS correspond à l’organisation de votre structure ?
+
+Bouton principal :
+
+Demander une démonstration personnalisée 
+
+## 8.8 Partenariat technique
+
+Le développement technique de la plateforme GDEVIS est réalisé en collaboration avec Boost-Créatif, spécialisé dans la conception d’applications web sécurisées.
+
+Ce partenariat technique permet de garantir un haut niveau d’exigence en matière de performance, de fiabilité et de sécurité.
+
+# 9. CONTENU REDACTIONNEL DE LA PAGE DEMANDER UNE DEMONSTRATION
+
+## 9.1 Titre principal (H1)
+
+Demander une démonstration personnalisée
+
+## 9.2 Texte d’introduction
+
+GDEVIS propose une démonstration personnalisée afin d’évaluer l’adéquation de la solution avec l’organisation et le volume de votre structure.
+
+Cette présentation permet de découvrir le cadre général de fonctionnement de la plateforme, d’identifier les éventuels axes d’amélioration de votre gestion actuelle et de répondre à vos questions dans un cadre professionnel.
+
+## 9.3 Le formulaire
+
+### 9.3.1 Champs obligatoires
+
+Le formulaire de demande de démonstration doit comporter les champs obligatoires suivants :
+
+- Nom
+- Prénom
+- Nom de la structure
+- Ville
+- Email professionnel
+- Téléphone
+- SIRET (14 chiffres obligatoires)
+- Nombre approximatif de prises en charge mensuelles :
+    - 0-10
+    - 10-20
+    - 20-30
+    - 30-40
+    - 40-50
+    - +50
+- Type de structure:
+    - Dentiste libéral
+    - Cabinet dentaire multi-praticiens
+    - Centre dentaire
+    - Groupe multi-sites
+
+### 9.3.2 Validation technique du SIRET (obligatoire)
+
+Le champ SIRET doit faire l’objet des contrôles suivants :
+
+- Vérification de format
+    - 14 chiffres obligatoires
+    - Validation via algorithme officiel de Luhn
+
+En cas d’echec : le formulaire ne peut pas être soumis
+
+- Vérification via API oficielle SIRENE (INSEE)
+
+Le SIRET doit être vérifié via l’API SIRENE de l’INSEE afin de :
+
+- Confirmer son existence
+- Récupérer la raison sociale
+- Récupérer le code NAF
+- Récupérer la commune d’implantation
+
+API utiliser :
+
+API SIRENE - INSEE (via [data.gouv.fr](http://data.gouv.fr) ou api.insee.fr)
+
+Authentification via clé API
+
+Il faudra :
+
+- Mettre en place l’appel API côté backend
+- Bloquer la soumission si le SIRET est inexistant
+- Enregistrer les données récupérées en base
+
+L’intégration API SIRENE devra être faite côté backend uniquement.
+
+Aucune clé API ne doit être exposée côté front
+
+### 9.3.3 Vérification d’activité
+
+Le code NAF retourné doit correspondre à une activité compatible avec le secteur dentaire (ex: 8623Z - Pratique dentaire).
+
+Si le code NAF ne correspond pas :
+
+- La demande est acceptée techniquement
+- Elle est automatiquement marquée comme “A vérifier”
+
+Aucun rejet automatique sur ce seul critère
+
+### 9.3.4 Vérification de l’email professionnel
+
+Les adresses email génériques (gmail.com, yahoo.com, outlook.com, etc…) doit être marquées pour vérification interne.
+
+Le contrôle doit être réalisé côté backend
+
+### 9.3.5 Traitement des demandes
+
+Aucune planification automatique de rendez-vous n’est autorisée
+
+Chaque demande est :
+
+- Enregistrée en base de données
+- Horodatée
+- Associée à une adresse IP
+- Visible dans l’interface d’administration sécurisée
+
+### 9.3.5.1 Analyse automatisée et scoring interne
+
+Dès l’enregistrement, la demande fait l’objet d’une analyse automatisée
+
+Objectif :
+
+Filtrer les demandes incohérentes ou suspectes avant toute prise de contact
+
+Le système doit:
+
+- Vérifier la cohérence SIRET / raison sociale
+- Vérifier la validité technique SIRET
+- Vérifier que l’activité correspond au secteur dentaire
+- Vérifier la cohérence entre type de structure et volume déclaré
+- Analyser le domaine de l’email professionnel
+
+Un score interne est attribué automatiquement
+
+### 9.3.5.2 Statuts administratifs :
+
+Les statuts possibles sont :
+
+- Nouvelle demande
+- A vérifier
+- Validée
+- Refusée
+- Contactée
+
+Règles :
+
+- Les demandes incohérentes sont automatiquement classées “A vérifier”
+- Les demandes validées peuvent faire l’objet d’une prise de contact
+- Aucune prise de rendez-vous n’est possible tant que le statut n’est pas validée
+
+### 9.3.5.3 Validation interne obligatoire
+
+La prise de rendez-vous est effectuée uniquement après validation interne
+
+Aucun système de réservation  automatique ne doit être mis en place
+
+La décision de contact relève exclusivement de l’administrateur habilité
+
+## 9.3.6 Intégration CRM interne au logiciel GDEVIS
+
+Chaque demande validée est automatiquement intégrée dans le module CRM commercial interne de GDEVIS afin d’assurer le suivi de la relation prospect jusqu’à la décision e souscription.
+
+Ce module est distinct du module opérationnel GDEVIS et ne contient aucune donnée de santé.
+
+Les demandes validées ne donnent pas automatiquement accès à a plateforme
+
+Après validation manuelle par l’administrateur :
+
+- Une fiche prospect est créée automatiquement dans le CRM interne
+- Les informations du formulaire sont transférées vers la fiche prospect
+- L’historique des actions (validation, refus, contact) est conservé
+- Aucune création automatique de compte client n’est autorisée sans validation explicite
+
+Le module CRM commercial est accessible uniquement aux profils autorisés.
+
+Les accès sont cloisonnés du module opérationnel GDEVIS.
+
+Chaque action est journalisée afin de garantir la traçabilité interne
+
+Objectifs :
+
+- Cloisonner les demandes non qualifiées
+- Conserver une traçabilité complète
+- Structurer le suivi commercial
+- Eviter toute création automatique de compte
+
+## 9.4 Case à cocher obligatoire
+
+Je confirme exercer dans une structure dentaire et souhaiter une présentation professionnelle de la solution GDEVIS.
+
+## 9.5 Phrase rassurante
+
+La demande de démonstration est sans engagement.
+
+L’accès à la solution est activé uniquement après validation contractuelle.
+
+Les informations transmises dans le cadre d’une demande de démonstration sont traitées de manière strictement confidentielle et ne font l’objet d’aucune communication à des tiers
+
+## 9.6 Après validation du formulaire
+
+Message automatique affiché :
+
+Votre demande a bien été prise en compte.
+
+Nous vous recontacterons prochainement afin de convenir d’un créneau de démonstration  adapté à votre organisation.
+
+## 9.7 Option stratégique
+
+Chaque demande fait l’objet d’une analyse préalable afin de garantir l’adéquation entre la solution GDEVIS et l’organisation de votre structure.
+
+# 10. CONTENU REDACTIONNEL DE LA PAGE CONNEXION (exigences de sécurité maximales)
+
+## 10.1 Objectif
+
+La page Connexion permet l’accès sécurisé à l’espace client GDEVIS
+
+Compte tenu de la nature des données traitées (données liées à la gestion administrative de prises en charge mutuelles du secteur dentaire), le niveau de sécurité exigé est équivalent à celui d’un SaaS professionnel du secteur santé.
+
+La plateforme doit garantir :
+
+- La confidentialité des données
+- La protection des identifiants sensibles liés aux mutuelles
+- Le cloisonnement strict entre structures
+- Une traçabilité complète des accès
+- Une protection contre les intrusions et attaques
+- La conformité aux obligations réglementaires en vigueur
+
+## 10.2 Sécurité et réseau
+
+Les communications doivent être intégralement chiffrées
+
+Exigences :
+
+- HTTPS obligatoire
+- Redirection automatique HTTP vers HTTPS
+- Certificat SSL valide
+- Aucun contenu mixte autorisé
+- TLS version récente uniquement
+- Affichage du cadenas navigateur
+
+## 10.3 Méthode d’authentification
+
+### 10.3.1 Identifiant
+
+- Connexion par email professionnel unique
+- Email validé lors de la création du compte
+- Un email = un utilisateur
+- Interdiction des comptes partagés
+
+### 10.3.2 Mot de passe
+
+Politique obligatoire :
+
+- Minimum 12 caractères
+- Au moins 1 majuscule
+- Au moins 1 minuscule
+- Au moins 1 chiffre
+- Au moins 1 caractère spécial
+
+Exigences techniques :
+
+- Interdiction des mots de passe faibles
+- Hashage sécurisé (bcrypt ou Argon2)
+- Aucun stockage en clair
+- Aucune réversibilité possible
+
+### 10.3.3 Double authentification (2FA obligatoire)
+
+Le 2FA est activé par défaut.
+
+Méthodes acceptées :
+
+- Code temporaire envoyé par email sécurisé
+    
+     OU
+    
+- Authentification via application type google Authenticator
+
+## 10.4 Protection contre les attaques
+
+### 10.4.1 Limitation des tentatives
+
+- Maximum 5 tentatives de connexion consécutives
+- Blocage temporaire automatique après échec répété
+- Mécanisme anti-bruteforce
+
+### 10.4.2 Protection CSRF / XSS / injection
+
+- Protection CSRF
+- Protection XSS
+- Sanitisation strict des entrées
+- Protection injection SQL
+- Validation backend obligatoire
+
+### 10.4.3 Protection contre énumération d’emails
+
+En cas d’erreur :
+
+Message unique et générique :
+
+- Identifiants invalides
+
+Ne jamais préciser si l’email ou le mot de passe est incorrect
+
+## 10.5 Gestion des sessions
+
+Exigences :
+
+- Session sécurisée
+- Cookie HttpOnly
+- Cookie Secure
+- SameSite activé
+- Expiration automatique après 15 minutes d’inactivité
+- Déconnexion automatique après durée maximale définie
+
+### Session unique obligatoire
+
+Objectif
+
+- Empêcher le partage de comptes
+- Réduire les accès non autorisés
+- Garantir une traçabilité précise
+
+Un utilisateur ne peut disposer que d’une seule session active simultanément.
+
+En cas de nouvelle connexion :
+
+- La session précédente est automatiquement invalidée
+- Un message de sécurité est affiché à l’utilisateur : “ Une nouvelle connexion a été détectée. Votre session précédente a été fermée pour des raisons de sécurité.”
+
+## 10.6 Cloisonnement des données
+
+Exigence absolue :
+
+- Chaque utilisateur est rattaché à un ID structure unique
+- Aucune requête ne doit retourner des données appartenant à une autre structure
+- Vérification systématique des autorisations côté backend
+- Interdiction totale d’accès croisé
+- Aucun contournement possible via URL directe
+
+## 10.7 Journalisation et traçabilité
+
+Enregistrement obligatoire
+
+- Date et heure de connexion
+- Adresse IP
+- Navigateur / appareil
+- Tentatives échouées
+- Déconnexions
+- Tentatives bloquées
+
+Les logs doivent :
+
+- Être non modifiables
+- Être conservés conformément aux obligations légales
+- Être accessibles uniquement aux profils autorisés
+
+## 10.8 Réinitialisation mot de passe
+
+- Lien sécurisé à usage unique
+- Expiration rapide (ex: 30 minutes)
+- Token crypté
+- Invalidation immédiate après utilisation
+
+## 10.9 Hébergement
+
+- Hébergeur certifié HDS
+- Base de données isolée
+- Sauvegardes chiffrées
+    - Accès serveur restreint et journalisé
+- Chiffrement des données sensibles au repos
+- Environnement de production distinct des environnements de test et développement
+
+## 10.10 Gestion des rôles et permissions
+
+Le système doit prévoir :
+
+- Des rôles distincts
+- Une gestion fine des permissions
+- Une limitation stricte des droits selon profil
+
+Aucun accès global non journalisé
+
+## 10.11 Interface utilisateur (visible)
+
+Titre (H1)
+
+Connexion à l’espace sécurisé GDEVIS
+
+Texte d’introduction
+
+L’accès à la plateforme est strictement réservé aux structures disposant d’un compte actif.
+
+Les connexions sont chiffrées et les données hébergées sur des infrastructures conformes aux exigences applicables au secteur de la santé.
+
+Champs
+
+- Email professionnel
+- Mot de passe
+
+Bouton 
+
+Se connecter
+
+Lien
+
+Mot de passe oublié ?
+
+Texte discret :
+
+Connexion chiffrée et accès protégé
+
+## 10.12 Interdictions strictes
+
+- Aucun affichage de mot de passe en clair
+- Aucun stockage non chiffré
+- Aucun accès administrateur global sans journalisation
+- Aucun contournement des droits par URL directe
+
+### Niveau de sécurité attendu
+
+Equivalent à :
+
+- SaaS professionnel du secteur santé
+- Protection de données sensibles
+- Exigence forte en traçabilité et cloisonnement
+
+## 10.13 Evolution future - Fournisseur d’identité externe (Pro Santé Connect)
+
+Anticipation d’évolution
+
+L’architecture du système d’authentification devra être conçue de manière modulaire et évolutive afin de permettre l’intégration ultérieure d’un fournisseur d’identité externe.
+
+A moyen ou long terme, la solution pourra intégrer une authentification via Pro Santé Connect (PSC) ou tout autre fournisseur d’identité compatible avec les standards OAuth2 / OpenID Connect.
+
+Cette intégration ne sera pas obligatoire au lancement de la plateforme, mais l’architecture devra:
+
+- Permettre l’ajout d’un fournisseur d’identité tiers sans refonte majeure
+- Prévoir une séparation claire entre gestion interne des comptes et mécanisme d’authentification
+- Être compatible avec les standards d’authentification fédérée
+- Maintenir le cloisonnement strict des structures
+
+L'authentification actuelle (email + mot de passe + 2FA obligatoire) constitue le socle initial.
+
+# 11. CONTENU REDACTIONNEL DE LA PAGE CONTACT
+
+## 11.1 Bloc 1 : Titre principal (H1)
+
+Contact
+
+## 11.2 Bloc 2 : Texte d’introduction
+
+GDEVIS accompagne les structures dentaires dans l’organisation et la sécurisation du suivi administratif des prises en charge mutuelle
+
+Pour toute demande d’information complémentaire, question relative à la solution ou prise de contact préalable à une démonstration, vous pouvez utiliser le formulaire ci-dessous.
+
+Chaque demande est analysée avec attention par notre équipe.
+
+## 11.3 Bloc 3 : Formulaire
+
+### 11.3.1 Champs obligatoire
+
+- Nom
+- Prénom
+- Nom du cabinet / Centre dentaire
+- Ville
+- Email professionnel
+- SIRET
+- Objet de la demande (liste déroulante):
+    - Information générale
+    - Question technique
+    - Partenariat
+    - Autre
+- Message
+
+Bouton
+
+Envoyer ma demande
+
+### 11.3.2 Conformité RGPD
+
+Sous le formulaire, ajouter obligatoirement la case à cocher :
+
+Je confirme être un professionnel du secteur dentaire et accepter que mes données soient utilisées pour le traitement de ma demande conformément à la politique   de confidentialité.
+
+Lien vers Politique de confidentialité
+
+## 11.4 Bloc 4: Phrase rassurante sous le bouton
+
+Les informations transmises sont traitées de manière confidentielle et utilisées exclusivement dans le cadre du traitement de votre demande.
+
+## 11.5 Bloc 5: Message automatique après envoi
+
+Votre message a bien été transmis.
+
+Nous vous recontacterons si votre demande nécessite une réponse ou un échange complémentaire. 
+
+# 12. CONTENU REDACTIONNEL DE LA PAGE FAQ
+
+H1 : Foire aux questions
+
+## 12.1 Objectif
+
+La page FAQ a pour objectif de répondre aux principales interrogations des professionnels du secteur dentaire, de lever les freins à la prise de rendez-vous et de renforcer la crédibilité de GDEVIS
+
+## 12.2 Structure
+
+- Format accordéon (questions cliquables)
+- Page dédiée accessible depuis le menu principal
+- Optimisation SEO
+- Bouton “Demander une démonstration” en bas de page
+- Possibilité d’ajout / modification via back-office
+
+## 12.3 Contenu rédactionnel V1
+
+### A. Fonctionnement de la solution
+
+- Comment fonctionne GDEVIS ?
+
+GDEVIS est une solution digitale dédié à l’optimisation du suivi des prises en charge mutuelles au sein des cabinets et centres dentaires.
+
+La plateforme permet de structurer, centraliser et sécuriser le tratement administratif des dossiers mutuelles afin de :
+
+- Améliorer la traçabilité
+- Réduire les oublis et retards
+- Fluidifier le suivi des paiements
+- Sécuriser les relances
+
+L’outil s’intègre dans l’organisation existante sans modifier les habitudes cliniques du cabinet.
+
+- La solution est-elle compatible avec les logiciels métiers existants?
+
+Oui.
+
+GDEVIS est conçu pour fonctionner indépendamment des logiciels métiers utilisés dans les cabinets et centres dentaires.
+
+La solution n’interfère pas avec votre logiciel clinique ou de facturation et vient compléter votre organisation administrative
+
+Des évolutions d’intégration peuvent être envisagées selon les besoins
+
+- Combien de temps dure la mise en place?
+
+La mise en place est rapide.
+
+Après validation de l’adéquation de la solution avec votre structure, l’accès à la plateforme peut être activé sous quelques jours
+
+Un accompagnement est prévu afin d’assurer une prise en main fluide et efficace par vos equipes
+
+- Est ce adapté aux centres multisites ?
+
+Oui.
+
+GDEVIS est adapté :
+
+- Aux cabinets individuels
+- Aux centres dentaires
+- Aux structures multi-sites
+
+La plateforme permet une gestion centralisée tout en conservant une organisation claire par site si nécessaire
+
+- Proposez vous un accompagnement ?
+
+Oui.
+
+GDEVIS ne se limite pas à la mise à disposition d’un outil
+
+Un accompagnement est proposé afin de :
+
+- Comprendre votre organisation actuelle
+- Adapter l’utilisation de la solution à vos besoins
+- Optimiser votre gestion administrative
+
+L’objectif est d’assurer une la mise en place structurée  et efficace
+
+### B. Sécurité & conformité
+
+- La solution est-elle conforme au RGPD ?
+
+Oui.
+
+GDEVIS est conçu dans le respect du Règlement Général sur la Protection des Données (RGPD)
+
+La plateforme applique les principes de :
+
+- Minimisation des données
+- Sécurisation des accès
+- Traçabilité des actions
+- Protection contre les accès non autorisés
+
+Un cadre contractuel encadre également les responsabilités respectives en matière de traitement des données
+
+- Où sont hébergées les données ?
+
+Les données sont hébergées en France auprès d’un hébergeur certifié Hébergeur de Données de Santé (HDS)
+
+Cette certification garantit le respect des exigences réglementaires applicables aux données de santé, notamment en matière de sécurité, d’intégrité et de confidentialité.
+
+L’infrastructure est située au sein de l’Union Européenne.
+
+- GDEVIS accède-t-il aux données patients ?
+
+GDEVIS n’exploite aucune donnée patient à des fins commerciales
+
+L’accès aux données est strictement limité :
+
+- Aux besoins techniques
+- Aux opérations de maintenance
+- A l’assistance, si nécessaire
+
+Ces accès sont encadrés et tracés
+
+- Comment les accès sont-ils sécurisés ?
+
+L’accès à la plateforme est protégé par :
+
+- Authentification sécurisée
+- Connexion HTTPS chiffrée
+- Gestion des droits par profil utilisateur
+- Journalisation des actions
+
+Des mesures techniques et organisationnelles adaptées au secteur de la santé sont mises en œuvre afin de prévenir tout accès non autorisé
+
+### C. Commercial
+
+- A qui s’adresse la solution ?
+
+GDEVIS s’adresse exclusivement aux professionnels du secteur dentaire :
+
+- Chirurgiens dentistes libéraux
+- Cabinets multi-praticiens
+- Centres dentaires
+- Groupes multi-sites
+
+La solution est conçue pour répondre aux enjeux administratifs liés au suivi des prises en charge mutuelles dans un cadre professionnel structuré.
+
+- Comment se déroule une démonstration ?
+
+La démonstration est réalisée sur rendez-vous, en visio-conférence
+
+Elle permet:
+
+- De présenter le fonctionnement de la plateforme
+- D’évaluer l’organisation actuelle de la structure
+- D’identifier les axes d’optimisation possibles
+- De répondre aux questions spécifiques
+
+La démonstration est personnalisée en fonction du volume et du type de structure
+
+- Y’a t’il un engagement contractuel ?
+
+La demande de démonstration est sans engagement.
+
+n cas d’intérêt pour la solution, les modalités contractuelles sont présentées de manière claire et transparente avant toute signature.
+
+Aucun engagement n’est imposé sans validation préalable du client.
+
+- La solution est elle adaptée aux petites structures ?
+
+Oui.
+
+GDEVIS est adapté aussi bien :
+
+- Aux cabinets libéraux à faible volume
+- Qu’aux centres dentaires structurés
+
+L’organisation de la solution permet une adaptation proportionnée aux besoins réels de chaque structure
+
+- Comment sont définis les tarifs ?
+
+Les tarifs sont définis en fonction :
+
+- Du type de structure
+- Du volume de prises en charge
+- Du niveau d’accompagnement souhaité
+
+Une proposition personnalisée est établie après analyse des besoins
+
+- Est il possible de souscrire en ligne ?
+
+La souscription n’est pas ouverte en libre-service sur le site.
+
+L’adhésion à la solution se fait uniquement après échange et validation mutuelle, afin de garantir l’adéquation entre GDEVIS et l’organisation de la structure
+
+La contractualisation peut être réalisée de manière dématérialisée et sécurisée
+
+- Comment obtenir plus d’informations ?
+
+Il est possible :
+
+- De demander une démonstration via le formulaire dédié
+- D’utiliser la page Contact pour toute question complémentaire
+
+Léquipe GDEVIS revient vers vous dans les meilleurs délais
+
+## D. Contractuel & Organisation
+
+- Comment se formalise la collaboration ?
+
+La collaboration débute par la validation d’un cadre contractuel précisant :
+
+- Les conditions d’utilisation
+- Les obligations respectives
+- Les modalités de confidentialité
+- Les responsabilités en matière de traitement des données
+
+La signature peut être réalisée de manière dématérialisée et sécurisée
+
+- Quelle est la durée du contrat ?
+
+La durée contractuelle est précisée lors de la proposition commerciale.
+
+Les modalités de renouvellement et de résiliation sont clairement définies afin d’assurer une relation transparente et structurée
+
+- Comment sont gérés les accès utilisateurs ?
+
+Chaque structure dispose d’un accès sécurisé à la plateforme
+
+Les droits utilisateurs peuvent être configurés en fonction :
+
+- Du rôle
+- Du niveau d’accès souhaité
+
+Cela permet une gestion organisée et sécurisée des opérations
+
+- Que se passe t’il en cas de résiliation ?
+
+En cas de fin de collaboration :
+
+- Les accès sont désactivés
+- Les modalités de restitution ou suppression des données sont appliquées conformément au cadre contractuel et à la réglementation en vigueur
+
+L’objectif est d’assurer une transition claire et sécurisée
+
+- Existe t il un support technique ?
+
+Oui.
+
+Un support est disponible pour accompagner les structures en cas de question technique ou organisationnelle liée à l’utilisation de la plateforme
+
+Les modalités d’assistance sont précisées lors de la mise en place
+
+## a12.3 Exigences techniques
+
+- FAQ administrable depuis le back-office
+- Format accordéon (dépliable)
+- Optimisée SEO (balises structurée)
+- Possibilité d’ajouter / modifier / supprimer des questions
+
+# 13. CONTENU REDACTIONNEL DE LA PAGE SECURITE & CONFORMITE
+
+H1 : Sécurité & conformité
+
+## 13.1 Objectif
+
+Présenter les engagements de GDEVIS en matière de :
+
+- Protection des données
+- Sécurité des accès
+- Confidentialité professionnelle
+- Respect des obligations réglementaires du secteur santé
+
+## 13.2Contenu attendu
+
+Sécurité des données
+
+- Hébergement sécurisé
+- Protocole HTTPS
+- Chiffrement des données
+- Accès restreint et authentification sécurisée
+
+Conformité réglementaire
+
+- Respect du RGPD
+- Traitement des données limité aux finalités définies
+- Aucune revente ou cession de données
+
+Confidentialité contractuelle
+
+GDEVIS s’engage contractuellement à une stricte confidentialité des informations professionnelles des structures accompagnées
+
+Environnement professionnel
+
+La solution est conçue spécifiquement pour les cabinets et centres dentaires, avec une approche adaptée aux exigences administratives du secteur santé.
+
+## 13.3 Exigences techniques
+
+- Page accessible depuis le footer
+- Ton institutionnel
+- Aucun langage marketing excessif
+- Design cohérent avec l’univers sécurisé du site
+
+# 12. CONTENU REDACTIONNEL DE LA PAGE MENTIONS LEGALES
+
+H1 : Mentions légales
+
+## 12.1 Editeur du site
+
+Le présent site est édité par :
+
+GDEVIS
+
+SASU au capital social de 1 200 €
+
+Immatriculée au Registre du Commerce et des Sociétés de Paris
+
+SIRET : 948 280 177 00015
+
+Siège social : 
+
+6 rue d’Armaillé
+
+75017 PARIS
+
+France
+
+Directrice de la publication :
+
+Sabrina BOUAIFEL, Présidente
+
+Adresse de ontact : 
+
+contact@gdevis.fr
+
+## 12.2 Hébergement
+
+Le site est hébergé par :
+
+Nom d’hébergeur
+
+Adresse hebergeur
+
+Téléphone hébergeur
+
+Site web hebergeur
+
+## 12.3 Accès au site
+
+Le site est accessible à tout moment, sauf interruption pour maintenance technique ou cas de force majeure.
+
+GDEVIS se réserve le droit de suspendre, limiter ou interrompre l’accès au site sans préavis, notamment pour des raisons de maintenance ou de sécurité.
+
+## 12.4 Propriété intellectuelle
+
+L’ensemble des éléments présents sur le site GDEVIS, notamment les textes, contenus rédactionnels, éléments graphiques, logos, structure, organisation, conception et architecture, sont protégés par le droit de la propriété intellectuelle.
+
+Toute reproduction, représentation, modification, publication, transmission ou adaptation, totale ou partielle, de tout ou partie du site, par quelque procédé que ce soit, sans autorisation écrite préalable de GDEVIS, est strictement interdite.
+
+Toute exploitation non autorisée du site ou de l’un quelconque de ses éléments pourra faire l’objet de poursuites conformément aux dispositions légales en vigueur.
+
+## 12.5 Responsabilité
+
+GDEVIS s’efforce de fournir sur le site des informations aussi précises et actualisées que possible.
+
+Toutefois, la société ne saurait garantir l’exactitude, la complétude ou l’actualité des informations diffusées.
+
+GDEVIS ne pourra être tenue responsable :
+
+- Des erreurs ou omissions
+- D’une indisponibilité temporaire du site
+- Ou de tout dommage résultant de l’utilisation des informations présentes sur le site
+
+L’utilisation du site s’effectue sous la responsabilité exclusive de l’utilisateur.
+
+## 12.6 Données personnelles
+
+Les données collectées via les formulaires présents sur le site sont conformément à la réglementation en vigueur, notamment le Règlement Général sur la Protection des Données (RGPD).
+
+Pour plus d’informations concernant la collecte et le traitement des données personnelles, l’utilisateur est invité à consulter la page : veuillez consulter la page : 
+
+Politique de confidentialité
+
+## 12.7 Cookies
+
+Le site peut utiliser des cookies strictement nécessaires à son fonctionnement ainsi que, le cas échéant, des cookies destinés à améliorer l’expérience utilisateur.
+
+Les modalités relatives à l’utilisation des cookies sont détaillées dans la page :
+
+Politique de cookies
+
+# 13. CONTENU REDACTIONNEL DE LA PAGE POLITIQUE DE CONFIDENTIALITE
+
+H1 : Politique de confidentialité
+
+Texte:
+
+La présente politique de confidentialité décrit la manière dont GDEVIS collecte et traite les données personnelles via le site www.gdevis.fr
+
+## 13.1 Responsable du traitement
+
+Les données personnelles collectées sur le site [www.gdevis.fr](http://www.gdevis.fr) sont traitées par :
+
+GDEVIS
+
+SASU au capital social de 1 200 €
+
+SIRET : 948 280 177 00015
+
+Siège social:
+
+6 rue d’Armaillé
+
+75017 PARIS
+
+France
+
+Adresse de contact : contact@gdevis.fr
+
+GDEVIS agit en qualité de responsable du traitement au sens du Règlement (UE) 2016/679 du 27 avril 2016 relatif à la protection des données à caractère personnel (RGPD).
+
+## 13.2 Données collectées
+
+Les données susceptibles d’être collectées via les formulaires du site sont : 
+
+- Nom
+- Prénom
+- Nom du cabinet ou centre dentaire
+- Ville
+- Email professionnel
+- Numéro de téléphone professionnel
+- Volume approximatif de prises en charge
+- Message libre
+
+Aucune donnée de santé relative à des patients n’est collectée via le site internet.
+
+Le site n’a pas vocation à recueillir des données médicales.
+
+## 13.3 Finalité du traitement
+
+Les données collectées sont utilisées exclusivement pour :
+
+- Répondre aux demandes de contact
+- Organiser une démonstration de la solution GDEVIS
+- Evaluer l’adéquation de la solution avec la structure professionnelle concernée
+- Assurer un suivi commercial professionnel
+
+Les données ne sont pas utilisées à des fins de prospection non sollicitée ou cédées à des tiers.
+
+## 13.4 Base légale du traitement
+
+Le traitement des données repose sur :
+
+- Le consentement de l’utilisateur lors de l’envoi du formulaire
+- L’intérêt légitime de GDEVIS à répondre aux demandes professionnelles et à assurer le suivi des échanges
+
+## 13.5 Durée de conservation
+
+Les données sont conservées :
+
+- Pendant la durée nécessaire au traitement de la demande
+- Et au maximum 3 ans après le dernier contact en l’absence de relation contractuelle
+
+En cas de conclusion d’un contrat, les données sont conservées conformément aux obligations légales, comptables et contractuelles applicables.
+
+## 13.6 Destinataires des données
+
+Les données sont exclusivement destinées : 
+
+- A GDEVIS
+- Aux personnes habilitées au sein de la société dans le cadre de leurs fonctions
+
+Aucune donnée personnelle n’est vendue, louée, échangée ou cédée à des tiers.
+
+Les données peuvent être hébergées auprès de prestataires techniques agissant en qualité de sous-traitants au sens du RGPD, dans le strict respect des obligations de sécurité et de confidentialité.
+
+## 13.7 Sécurité des données
+
+GDEVIS met en œuvre des mesures techniques et organisationnelles appropriées afin de garantir la sécurité, l’intégrité et la confidentialité des données personnelles.
+
+Les infrastructures d’hébergement utilisées respectent les exigences applicables au secteur de la santé.
+
+L’accès aux données est strictement limité aux personnes autorisées.
+
+## 13.8 Droits des utilisateurs
+
+Conformément au RGPD, vous disposez des droits suivants :
+
+- Droit d’accès
+- Droit de rectification
+- Droit d’effacement
+- Droit à la limitation du traitement
+- Droit d’opposition
+- Droit à la portabilité des données
+
+Vous pouvez exercer vos droits en adressant votre demande à : 
+
+rgpd@gdevis.fr
+
+Une réponse sera apportée dans un délai maximum d’un mois à compter de la réception de la demande.
+
+Une pièce d’identité pourra être demandée en cas de doute raisonnable sur l’identité du demandeur.
+
+## 13.9 Réclamation
+
+En cas de désaccord persistant concernant le traitement de vos données personnelles, vous avez la possibilité d’introduire une réclamation auprès de l’autorité de contrôle compétente :
+
+Commission Nationale de l’Informatique et des Libertés (CNIL)
+
+www.cnil.fr
+
+# 14. CONTENU REDACTIONNEL DE LA PAGE POLITIQUE DE COOKIES
+
+H1 : Politique de cookies
+
+Texte:
+
+La présente politique de cookies décrit l’utilisation des cookies et autres traceurs sur le site [www.gdevis.fr](http://www.gdevis.fr) 
+
+Elle a pour objectif d’informer les utilisateurs de manière claire et transparente sur les technologies utilisées lors de leur navigation.
+
+## 14.1 Qu’est ce qu’un cookie ?
+
+Un cookie est un fichier texte déposé sur votre terminal (ordinateur, tablette, smartphone) lors de la consultation d’un site internet.
+
+Il permet notamment :
+
+- D’assurer le bon fonctionnement technique du site
+- De sécuriser certaines fonctionnalités
+- Le cas échéant, d’analyser l’audience de manière statistique
+
+Un cookie ne permet pas d’identifier directement un utilisateur
+
+## 14.2 Types de cookies utilisés
+
+Le site GDEVIS adopte une approche minimaliste et respectueuse de la vie privée.
+
+Il utilise exclusivement :
+
+- Des cookies strictement nécessaires au fonctionnement du site
+- Un outil de mesure d’audience configuré conformément aux recommandations de la CNIL
+
+### 14.2.1 Cookies strictement nécessaires
+
+Ces cookies sont indispensables au fonctionnement du site.
+
+Ils permettent notamment :
+
+- Le bon fonctionnement des formulaires
+- La sécurisation des connexions
+- La gestion des sessions utilisateur
+- La protection contre les tentatives d’intrusion
+
+Ces cookies ne peuvent pas être désactivés, car le site ne fonctionnerait pas correctement sans eux.
+
+Ils ne sont pas utilisés à des fins commerciales.
+
+### 14.2.2 Cookies de mesure d’audience (le cas échéant)
+
+Le site utilise un outil de mesure d’audience configuré de manière à :
+
+- Anonymiser les adresses IP
+- Ne pas transmettre les données à des tiers
+- Héberger les données au sein de l’Union européenne
+- Limiter la collecte aux seules données statistiques nécessaires
+- Ne pas utiliser les données à des fins publicitaires
+
+Lorsque la configuration le permet, cet outil fonctionne sans dépôt de cookies.
+
+Les données collectées sont utilisées exclusivement à des fins d’analyse interne afin d’améliorer la qualité du site et l’expérience utilisateur.
+
+### 14.2.3 Absence de cookies publicitaires
+
+Le site GDEVIS :
+
+- N’utilise pas de cookies publicitaires
+- N’utilise pas de pixel de retargeting
+- Ne partage aucune donnée avec des plateformes publicitaires
+- Ne procède à aucun profilage marketing
+
+## 14.3 Durée de conservation des cookies
+
+Les cookies strictement nécessaires sont conservés pour la durée technique requise au fonctionnement du site.
+
+Les données statistiques anonymisés sont conservées pour une durée maximale de 13 mois conformément aux recommandations de la CNIL.
+
+Le choix de l’utilisateur concernant le consentement est conservé pour une durée maximale de 6 mois.
+
+## 14.4 Gestion du consentement
+
+Lors de sa première visite, l’utilisateur est informé de l’utilisation des cookies via un bandeau d’information.
+
+Lorsque des cookies soumis à consentement sont susceptibles d’être utilisés, aucun dépôt n’est effectué avant l’accord explicite de l’utilisateur.
+
+L’utilisateur peut à tout moment modifier ses préférences via le gestionnaire de cookies accessible depuis le site.
+
+## 14.5 Paramétrage via le navigateur
+
+L’utilisateur peut configurer son navigateur afin de bloquer tout ou partie des cookies.
+
+La désactivation des cookies strictement nécessaires peut toutefois altérer le bon fonctionnement du site.
+
+## 14.6 Exigences techniques : cookies & mesure d’audience
+
+### 14.6.1 Objectif
+
+Le site GDEVIS doit intégrer un dispositif de mesure d’audience permettant d’analyser la fréquentation du site tout en respectant strictement :
+
+- Le règlement Général sur la Protection des Données (RGPD)
+- Les recommandations de la CNIL
+- Les exigences de confidentialité propres au secteur de la santé
+
+Aucune donnée collectée via le site ne doit être utilisée à des fins publicitaires ou de revente.
+
+### 14.6.2 Principes généraux obligatoires
+
+L’outil de mesure d’audience doit respecter les exigences suivantes :
+
+- Hébergement des données exclusivement au sein de l’Union Européenne
+- Absence totale de transfert de données hors UE
+- Anonymisation automatique des adresses IP
+- Absence de profilage publicitaire
+- Absence de croisement de données avec d’autres services
+- Conservation des données limitée à 13 mois maximum
+- Accès restreint aux données statistiques
+- Aucune exploitation commerciale des données collectées
+
+### 14.6.3 Solution technique retenue
+
+Le site GDEVIS doit utiliser une solution de mesure d’audience conforme aux exigences suivantes :
+
+Solution recommandée :
+
+Matomo auto-hébergé
+
+Configuration obligatoire :
+
+- Installation sur le même serveur que le site ou sur un serveur dédié situé dans l’union européenne
+- Activation de l’anonymisation IP
+- Désactivation des cookies si configuration possible sans perte de conformité
+- Aucune activation de module publicitaires ou marketing
+
+### 14.6.4 Bandeau de gestion des cookies
+
+Lors de la première visite sur le site :
+
+Un bandeau d’information doit permettre à l’utilisateur :
+
+- D’accepter les cookies soumis à consentement
+- De les refuser
+- De paramétrer ses préférences
+
+Les cookies strictement nécessaires au fonctionnement du site ne peuvent pa être désactivés.
+
+Le consentement doit être :
+
+- Libre
+- Spécifique
+- Eclairé
+- Traçable
+
+L’utilisateur doit pouvoir modifier ses choix à tout moment via un gestionnaire accessible depuis le site.
+
+### 14.6.5 Cookies strictement nécessaires
+
+Les cookies techniques indispensables peuvent être utilisés pour :
+
+- Le fonctionnement des formulaires
+- La sécurisation des connexions
+- La gestion contre les attaques
+
+Ces cookies ne nécessitent pas de consentement préalable.
+
+### 14.6.6 Interdictions strictes
+
+Les outils suivants sont interdits :
+
+- Google Analytics
+- Pixels publicitaires (Meta, LinkedIn, Google Ads, etc…)
+- Outils de retargeting
+- Outils impliquant un transfert de données hors Union Européenne
+- Outils exploitant les données à des fins publicitaires
+
+Aucun outil de tracking marketing ne doit être intégré sans validation juridique préalable
+
+### 14.6.7 Exigence de conformité continue
+
+S’assurer que :
+
+- La configuration reste conforme aux recommandations CNIL en vigueur
+- Toute évolution technique respecte les exigences RGPD
+- Aucun scipt tiers ne soit ajouté sans validation préalable
+
+# 15. CONTENU REDACTIONNEL DE LA PAGE CGU
+
+## 15.1 Objet
+
+Les présentes Conditions Générales d’Utilisation (CGU) ont pour objet de définir les modalités et conditions d’accès et d’utilisation du site internet www.gdevis.fr.
+
+Le site a pour finalité la présentation de la solution GDEVIS et la mise en relation avec des professionnels du secteur dentaire.
+
+Toute navigation sur le site implique l’acceptation pleine et entière des présentes CGU.
+
+## 15.2 Accès au site
+
+Le site est accessible gratuitement à tout utilisateur disposant d’un accès à Internet.
+
+GDEVIS s’efforce d’assurer un accès continue au site. Toutefois, l’accès peut être suspendu, limité ou interrompu à tout moment, notamment pour des raisons techniques, de maintenance ou de mise à jour.
+
+GDEVIS ne saurait être tenue responsable en cas d’interruption temporaire ou définitive du site.
+
+## 15.3 Nature des informations diffusées
+
+Les informations publiées sur le site sont fournies à titre informatif et indicatif.
+
+Elles ont pour objectif de présenter la solution GDEVIS sans constituer une offre contractuelle.
+
+Seule la signature d’un contrat distinct engage les parties.
+
+## 15.4. Utilisation du site
+
+L’utilisateur s’engage à :
+
+- Utiliser le site conformément à sa destination
+- Ne pas porter atteinte au bon fonctionnement du site
+- Ne pas tenter d’accéder frauduleusement aux systèmes informatiques
+- Ne pas collecter ou détourner les données présentes sur le site
+
+Toute utilisation abusive pourra donner lieu à des mesures appropriées, y compris des poursuites.
+
+## 15.5 Réservation de démonstration
+
+La demande de démonstration effectuée via le formulaire en ligne :
+
+- Ne constitue pas une souscription
+- Ne vaut pas engagement contractuel
+- Ne garantit pas l’accès à la solution
+
+GDEVIS se réserve le droit :
+
+- D’analyser la demande
+- De vérifier la qualité de professionnel du secteur dentaire
+- De refuser toute demande ne correspondant pas au positionnement de la solution
+
+## 15.6 Propriété intellectuelle
+
+L’ensemble des éléments composant le site (textes, contenus rédactionnels, éléments graphiques, structure, logos, marque GDEVIS, etc.) est protégé par le droit de la propriété intellectuelle.
+
+Toute reproduction, représentation, modification ou exploitation, totale ou partielle, sans autorisation écrite préalable est strictement interdite.
+
+## 15.7 Responsabilité
+
+GDEVIS met en oeuvre tous les moyens raisonnables pour assurer l’exactitude des informations diffusées.
+
+Toutefois GDEVIS ne saurait être tenue responsable :
+
+- Des éventuelles erreurs ou omissions
+- Des dommages directs ou indirects résultants de l’utilisation du site
+- De l’utilisation qui pourrait être faite des informations publiées
+
+## 15.8 Liens hypertextes
+
+Le site peut contenir des liens vers des sites tiers.
+
+GDEVIS n’exerce aucun contrôle sur ces sites et décline toute responsabilité quant à leur contenu ou à leur politique de protection des données.
+
+## 15.9 Protection des données
+
+Les données personnelles collectées via le site sont traitées conformément à la Politique de Confidentialité accessible sur le site.
+
+L’utilisateur est invité à la consulter pour toute information relative au traitement de ses données.
+
+## 15.10 Sécurité du site
+
+L’utilisateur s’interdit toute tentative :
+
+- D’intrusion dans le systèmes informatiques
+- De perturbations du fonctionnement du site
+- D’extraction non autorisée de données
+
+Toute tentative de ce type pourra faire l’objet de poursuites conformément aux dispositions légales en vigueur.
+
+## 15.11 Modification des CGU
+
+GDEVIS se réserve le droit de modifier à tout moment les présentes CGU.
+
+Les CGU applicables sont celles en vigueur à la date de consultation du site.
+
+## 15.12 Droit applicable
+
+Les présentes CGU sont soumises au droit français.
+
+En cas de litige relatif à leur interprétation ou à leur exécution, et à défaut de résolution amiable, les tribunaux compétents du ressort du siège social de GDEVIS seront seuls compétents.
+
+# 16. IDENTITE VISUELLE ET DESIGN DU SITE
+
+## 16.1 Objectif visuel
+
+Le site GDEVIS doit transmettre immédiatement :
+
+- Professionnalisme
+- Rigueur administrative
+- Maîtrise organisationnelle
+- Sécurité des données
+- Adaptation au secteur de la santé
+- Positionnement B2B
+
+Le design doit inspirer confiance, rigueur et maîtrise administrative.
+
+Aucune approche “startup ludique” ou visuellement agressive n’est souhaitée.
+
+## 16.2 Palette de couleurs
+
+### 16.2.1 Couleur principale
+
+Bleu profond / bleu nuit (teinte professionnelle et institutionnelle).
+
+Objectif :
+
+- Inspirer la confiance
+- Evoquer la sécurité
+- Rappeler le secteur santé sans utiliser le vert médical classique
+- Donner une dimension institutionnelle
+
+### 16.2.2 Couleurs secondaires
+
+- Blanc (fond principal)
+- Gris clair (fond alternés)
+- Gris neutre pour les fonds secondaires (zones secondaires, séparations, blocs)
+
+Ces couleurs doivent renforcer la lisibilité et la hiérarchisation
+
+### 16.2.3 Couleur d’accent (CTA)
+
+Bleu légèrement plus clair ou bleu pétrole.
+
+Utilisation :
+
+- Boutons principaux
+- Liens stratégiques
+- Eléments d’action
+- CTA “Demander une démonstration”
+
+Le contraste doit être suffisant pour une excellente lisibilité
+
+### 16.2.4 Interdictions graphiques :
+
+- Pas de rouge dominant
+- Pas de vert vif
+- Pas de couleurs flashy
+- Pas de dégradés agressifs
+- Pas d’effets néon
+- Pas de design “tech startup” dynamique
+
+L’image doit rester stable et professionnele
+
+## 16.3 Typographie
+
+### 16.3.1 Type de police
+
+- Sans serif moderne
+- Lisible
+- Structurée
+- Elégante
+- Non décorative
+
+Interdictions :
+
+- Pas de typographie manuscrite
+- Pas de typographie arrondie “startup ludique”
+- Pas  de police fantaisie
+
+### 16.3.2 Hiérarchisation :
+
+Objectif : faciliter la lecture rapide par des professionnels
+
+- H1 clair et structurant
+- H2 lisible et sobre
+- Sous-titres cohérents
+- Texte courant aéré
+- Interlignage confortable
+- Bonne respiration visuelle
+
+## 16.4 Mise en page
+
+Objectif : 
+
+Sobriété + crédibilité + sérieux.
+
+Le design doit être :
+
+- Epuré
+- Structuré
+- Aéré
+- Rigoureux
+- Stable
+
+Principe :
+
+- Beaucoup d’espace blanc
+- Blocs bien séparés
+- Alignement précis
+- Grille cohérente
+- Marges régulières
+
+Interdictions:
+
+- Animations excessives
+- Effets parallaxe
+- Transitions agressives
+- Micro-interactions inutile
+- Pop-ups intrusifs
+
+## 16.5 Iconographie
+
+### 16.5.1 Icônes
+
+- Style linéaires
+- Monochrome
+- Homogène
+- Minimalisme
+
+Interdictions :
+
+- Illustrations caricaturales
+- Personnages dessinés
+- Style cartoon
+- Icône multicolores
+
+### 16.5.2 Photographies / visuels
+
+Autorisé :
+
+- Interfaces logicielles (mockups sobre)
+- Tableaux de suivi
+- Ambiance bureau professionnelle
+- Ordinateur / tablette
+- Univers calme structuré
+
+Interdit :
+
+- Dentiste en blouse souriant avec patient
+- Photos “banque d’image” clichées
+- Poignées de main exagérées
+- Sourires forcés
+- Scènes médicales
+
+## 16.6 Cohérence avec la plateforme logicielle
+
+Exigence importante :
+
+Le design du site doit être cohérent avec :
+
+- L’interface du logiciel GDEVIS
+- La page de connexion sécurisée
+- L’espace client
+- L’univers graphique global
+
+L’utilisateur doit percevoir une continuité visuelle immédiate entre :
+
+- Le site
+- La connexion
+- La plateforme.
+
+# 17. PERFORMANCE, CONVERSION ET SEO
+
+## 17.1 Optimisation de la conversion (CRO)
+
+### 17.1.1Objectif :
+
+Transformer les visiteurs qualifiés (professionnels dentaires) en prospects via une demande de démonstration.
+
+Le site doit être orienté conversion sans marketing agressif.
+
+### 17.1.2 Architecture de conversion
+
+CTA principal
+
+Bouton principal visible en permanence (header fixe)
+
+Demande de démonstration
+
+Caractéristiques :
+
+- Couleur accent
+- Position haute
+- Répété sur chaque page
+- Présent dans le menu
+
+CTA secondaire
+
+Bouton discret :
+
+Découvrir la solution
+
+Objectif: Rassurer avant conversion
+
+### 17.1.3 Logique persuasive des pages clés
+
+La page d’accueil doit suivre une structure logique :
+
+1. Problème (complexité administrative)
+2. Identification (vous êtes concernés)
+3. Solution (organisation claire
+4. Bénéfices (visibilité, fiabilité, sécurité)
+5. Rassurance (conformité, cadre)
+6. Appel à l’action
+
+Pas de pression commerciale
+
+Pas d’urgence artificielle
+
+### 17.1.4 Parcours utilisateur
+
+Exigences UX :
+
+- Maximum 3 clicss vers la demande de démonstration
+- Navigation fluide
+- Menu clair
+- Pas de surcharge d’informations
+- Pas de pop-ups intrusifs
+
+### 17.1.5 Formulaire optimisé
+
+Le formulaire doit être :
+
+- Court
+- Structuré
+- Clair
+- Adapté B2B
+
+Temps de remplissage estimé : moins de 60 secondes
+
+### 17.1.6 Présence digitale complémentaire
+
+- Création d’une page LinkedIn professionnelle
+- Cohérence visuelle avec le site
+- Lien croisé site —>LinkedIn
+- Aucune utilisation des réseaux sociaux à des fins publicitaires agressives
+
+Mise en place d’un lien croisé entre le site officiel et la page LinkedIn GDEVIS afin de renforcer la cohérence digitale et la crédibilité de la marque
+
+https://www.linkedin.com/company/sas-gdevis/ 
+
+## 17.2 SEO technique
+
+### 17.2.1 Structure technique
+
+Le site doit respecter les standards SEO actuels :
+
+- 1 seul H1 par page
+- Hiérarchie H2 / H3 cohérente
+- Balises Title uniques par page
+- Meta descriptions optimisées
+- URLs propres
+- Sitemap XML généré automatiquement
+- Fichier robots.txt configuré
+- HTTPS obligatoire
+- Certificat SSL valide
+- Aucun contenu mixte
+
+### 17.2.2 Performance technique
+
+Objectif :
+
+Temps de chargement rapide sur desktop et mobile
+
+Exigences :
+
+- Optimisation des images
+- Code propre
+- Mise en cache activée
+- Lazy loading des images
+- Score Google Pagespeed performant
+
+Le site doit être :
+
+- Responsive
+- Mobile-first
+- Adapté tablette
+- Compatible navigateurs modernes
+
+## 17.3 SEO stratégique (mots-clés)
+
+### 17.3.1 Objectif :
+
+Améliorer la visibilité organique sur des requêtes ciblées du secteur dentaire administratif.
+
+### 17.3.2 Axes sémantiques principaux
+
+Le contenu doit intégrer naturellement des expressions liées à :
+
+- Demande de prises en charge dentaire
+- Gestion mutuelle cabinet dentaire
+- Logiciel administratif centre dentaire
+- Suivi prises en charge mutuelles
+- Organisation administrative dentaire
+- Optimisation gestion mutuelles dentaire
+- pilotage administratif cabinet dentaire
+
+Aucun bourrage de mots-clés
+
+Style rédactionnel naturel
+
+Ton professionnel adapté au secteur santé
+
+### 17.3.3 Stratégie long terme
+
+Prévoir ultérieurement :
+
+- Articles d’expertise (blog professionnel)
+- Pages thématiques dédiées
+- Contenu pédagogique sectoriel
+
+Cela peut être sans l’activer immédiatement
+
+## 17.4 Suivi des performances
+
+### 17.4.1 Outils
+
+Mise en place de :
+
+- Google search Console (indexation et suivi SEO)
+- Outil d’analyse d’audience respectueux du RGPD
+
+Si google Analytics est utilisé :
+
+- Consentement préalable obligatoire via bandeau cookies
+- Anonymisation IP activée
+- Paramétrage conforme CNIL
+
+### 17.4.2 Suivi des conversions
+
+Objectif :
+
+Mesurer :
+
+- Taux de conversion
+- Pages les plus performantes
+- Point de sortie
+
+Evénements à tracker :
+
+- Clic sur bouton “Demander une démonstration”
+- Soumission du formulaire
+- Clic CTA stratégique
+- Scroll sur page d’accueil
+
+# 18. CONTENU REDACTIONNEL DE LA PAGE GOOGLE
+
+## 18.1 Création et paramétrage Google Business Profile
+
+### 18.1.1 Objectif :
+
+- Renforcer la crédibilité institutionnelle de GDEVIS
+- Améliorer la visibilité sur Google (recherche + Google Maps)
+- Faciliter l’identification de l’entreprise par les professionnels
+- Permettre l’accès rapide aux informations officielles
+
+La fiche Google doit être cohérente avec les mentions légales du site
+
+### 18.1.2 Informations principales
+
+Nom affiché :
+
+GDEVIS
+
+Catégorie principale (à définir précisément lors de la création)
+
+Option pertinentes à tester :
+
+- Logiciel
+- Entreprise de logiciels
+- Services aux entreprises
+- Consultant en gestion
+- Service administratif
+
+Eviter une catégorie médicale pour ne pas créer de confusion
+
+### 18.1.3 Description optimisée (à utiliser sur la fiche Google)
+
+GDEVIS est une solution administrative spécialisée dédiée aux cabinets et centres dentaires en France et DROM.
+
+La plateforme permet de structurer, centraliser et piloter la gestion des prises en charge mutuelles dans un environnement sécurisé et conforme aux exigences du secteur de la santé.
+
+GDEVIS accompagne les structures dentaires en métropole et dans les DROM grâce ç un fonctionnement 100% digital et un cadre organisationnel maîtrisé.
+
+Les démonstrations sont proposées sur rendez-vous après demande via le site officiel.
+
+## 18.2 Zone géographique d’intervention
+
+### 18.2.1 Cible
+
+GDEVIS s'adresse exclusivement :
+
+- Aux cabinets dentaires
+- Aux centres dentaires
+- Aux structures multi-sites du secteur dentaire
+
+### 18.2.2 Zone couverte
+
+France métropolitaine
+
+DROM (Guadeloupe, Martinique, La Réunion, Guyanne, Mayotte)
+
+Paramétrer la fiche en “zone desservie” et non en “magasin local”
+
+## 18.3 Photos et éléments visuels
+
+Eléments obligatoires
+
+Objectif :
+
+Sérieux + crédibilité
+
+- Logo officiel
+- Bannière sobre (bleu professionnel, cohérente avec le site)
+- Photo professionnelle de la dirigeante
+- Capture d’interface (floutée si nécessaire)
+- Image bureau épuré / environnement professionnel
+
+Eviter :
+
+- Photos banque d’images trop commerciales
+- Dentiste en blouse
+- Patients
+- Sourire exagérés
+
+## 18.4 Horaires
+
+Horaires administratifs :
+
+Du lundi au vendredi 
+
+9h00 à 17h00
+
+Les échanges et démonstration sont réalisés sur rendez-vous.
+
+## 18.5 Paramétrage stratégique
+
+### 18.5.1 Avis clients
+
+Stratégie :
+
+- Ne pas forcer les avis au lancement
+- Demander des avis uniquement après signature client et relation établie
+- Répondre systématiquement aux avis
+
+### 18.5.2 Cohérence NAP
+
+NAP = Name, Adress, Phone
+
+Les informations doivent être strictement identiques entre :
+
+- Site web
+- Google business Profile
+- Mentions légales
+- Réseaux sociaux
+
+## 18.6 Sécurité & image
+
+Ne jamais afficher :
+
+- Données sensibles
+- Capture internes non floutées
+- Informations contractuelles
+
+## 18.7 Stratégie SEO indirecte
+
+La fiche Google permet :
+
+- Améliorer la confiance
+- Renforcer la présence sur mon nom de marque
+- Apparaître lors des recherches :
+    - Logiciel gestion mutuelle dentaire
+    - Solution administrative cabinet dentaire
+    - Gestion Prise en Charge centre dentaire
+
+# 19.EVOLUTIONS PREVUES (hors V1)
+
+## 19.1 Evolutions prévues (hors V1)
+
+### 19.1.1 Objectifs
+
+Les éléments ci-dessous ne sont pas intégrés dans la version initiale (V1) du site
+
+Ils pourront être développés ultérieurement selon :
+
+- La croissance de l’activité
+- L’augmentation du nombre de clients
+- Les beosins marketing et SEO
+- La structuration commerciale
+
+L‘architecture technique du site devra permettre leur intégration future sans refonte complète.
+
+### 19.1.2 Témoignages clients
+
+Objectif
+
+Renforcer la crédibilité et la preuve sociale.
+
+Fonctionnalités attendues :
+
+- Module administrable via back-office
+- Ajout / modification / supression de témoignages
+- Nom de la structure
+- Typologie (cabinet, centre, groupe)
+- Texte de témoignage
+- Option d’affichage dynamique sur la page d’accueil
+- Possibilité de masquer temporairement un témoignage
+
+Les témoignages devront être :
+
+- Réels
+- Vérifiables
+- Validés par le client
+
+Non obligatoire au lancement
+
+A activer uniquement après acquisition des premiers clients satisfaits
+
+### 19.1.3 Indicateurs chiffrés dynamiques
+
+Objectif
+
+Apporter des éléments de crédibilité mesurables
+
+Indicateurs envisagés
+
+- Nombre de structures dentaires accompagnées
+
+Cabinets, Centres dentaires et groupes multisites utilisant la solution au quotidien
+
+- Nombre de professionnels utilisateurs
+
+Chirurgiens-dentistes et équipes administratives connectés à la plateforme
+
+- Nombre de dossiers de prises en charge suivis via GDEVIS
+
+Prise en charge mutuelles suivies, relancées, payé et sécurisées via GDEVIS
+
+Exigences techniques
+
+- Données vérifiables
+- Mise à jour possible via un back-office
+- Pas de données fictives
+- Pas d’auto-incrémentation marketing artificielle
+
+Les chiffres doivent être réels et assumables juridiquement
+
+Non obligatoire au lancement
+
+### 19.1.4 Présentation de l’équipe
+
+Humaniser la solution à mesure que l’équipe grandit
+
+Fonctionnalités attendues
+
+- Module administrable
+- Photo
+- Nom
+- Fonction
+- Courte description
+- Ordre d’affichage paramétrable
+
+Activation uniquement lorsque l’équipe dépasse la phase fondatrice - développeur
+
+### 19.1.5 Blog / Ressources
+
+Objectif
+
+- Renforcer le SEO
+- Développer l’autorité sur le secteur
+- Publier des contenus à valeur ajoutée
+
+Fonctionnalités attendues
+
+- Gestion d’articles via back-office
+- Catégorisation des contenus
+- URL optimisées SEO
+- Balise Hn structurées
+- Meta description éditable
+- Sitemap automatique mis à jour
+
+Exemple de thématiques futures :
+
+- Organisation administrative en cabinet dentaire
+- Gestion des prises en charge mutuelles
+- Structuration d’équipe administrative
+
+Non prioritaire en V1
+
+### 19.1.6 Chatbot  conversationnel
+
+Objectif
+
+Répondre aux questions commerciales simples
+
+Cadre strict
+
+- Limité aux questions générales (FAQ commerciale)
+- Aucun accès aux données internes
+- Aucune connexion à la plateforme client
+- Aucune donnée de santé traitée
+
+Le chatbot ne devra jamais:
+
+- Accéder aux comptes utilisateurs
+- Donner des informations contractuelles
+- Remplacer l’échange humain
+
+Activation uniquement si la volumétrie de demande le justifie
+
+L’architecture technique du site devra être conçue de manière modulaire afin de permettre l’intégration future de ces évolutions sans refonte complète de la structure existante.
