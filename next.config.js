@@ -1,11 +1,15 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export', // Export statique pour GitHub Pages
   reactStrictMode: true,
   swcMinify: true,
   // Optimisations de compilation
   experimental: {
     optimizePackageImports: ['lucide-react'],
   },
+  // Base path pour GitHub Pages
+  basePath: process.env.NODE_ENV === 'production' ? '/gdevis' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/gdevis' : '',
   images: {
     remotePatterns: [
       {
